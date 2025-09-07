@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Met
 
-<!--
-**metin-altaykan-quant/metin-altaykan-quant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a quant researcher and developer with a background in theoretical physics (Oxford MMathPhys) and penetration testing.  
+Currently completing a **Mathematical Finance MSc at King’s College London** with a focus on algorithmic trading, stochastic control, and high-performance systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Current Focus
+- Algorithmic trading research  
+- Stochastic calculus and portfolio optimisation  
+- High-performance backtesting in **Rust** and **C++**  
+- Machine learning for financial time series  
+
+---
+
+## 📂 Featured Projects 
+- **Monte Carlo Option Pricing (Rust vs C++)** – Benchmarking numerical methods across languages.    
+
+---
+
+## ✍️ Blog
+I write about quant finance, algorithmic trading, and systems programming here:  
+👉 [my-quant-blog](https://yourname.github.io)
+
+---
+
+## 📫 Contact
+- Email: m.altaykan+quant@pm.me
